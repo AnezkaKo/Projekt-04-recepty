@@ -141,7 +141,7 @@ body {
 
     .hlavni-recept {
         min-height: 400px;
-        width: 33.3%;
+        min-width: 33.3%;
         flex-grow: 1;
     }
 }
